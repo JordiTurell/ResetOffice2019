@@ -1,0 +1,15 @@
+F:\Projects\ResetPruevaOffice2019\bin\Debug\net6.0\ResetPruevaOffice2019.exe
+F:\Projects\ResetPruevaOffice2019\bin\Debug\net6.0\ResetPruevaOffice2019.deps.json
+F:\Projects\ResetPruevaOffice2019\bin\Debug\net6.0\ResetPruevaOffice2019.runtimeconfig.json
+F:\Projects\ResetPruevaOffice2019\bin\Debug\net6.0\ResetPruevaOffice2019.dll
+F:\Projects\ResetPruevaOffice2019\bin\Debug\net6.0\ResetPruevaOffice2019.pdb
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.csproj.AssemblyReference.cache
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.AssemblyInfoInputs.cache
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.AssemblyInfo.cs
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.csproj.CoreCompileInputs.cache
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.dll
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\refint\ResetPruevaOffice2019.dll
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.pdb
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ResetPruevaOffice2019.genruntimeconfig.cache
+F:\Projects\ResetPruevaOffice2019\obj\Debug\net6.0\ref\ResetPruevaOffice2019.dll
